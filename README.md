@@ -12,6 +12,12 @@ This web application is a single page downloadable text editor. This application
 3. From there you pin the text editor to your desktop and enjoy!
 
 ## Screenshots 
+![Text-Editor](https://github.com/Jeremyethridge/Text-editor/assets/128623643/2db4dc92-f24c-475b-8176-536a52bfb7ac)
+![Desktop-popup](https://github.com/Jeremyethridge/Text-editor/assets/128623643/f93ccfff-39ec-49bc-9e7c-daa005aa5407)
+
+## Future Development
+1. Adding more features like an autocorrect
+2. Give more options to styling the text editor
 
 ## License
 This application has an ISC License
